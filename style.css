@@ -14,6 +14,7 @@ h2 {
 .container {
     height: 100vh;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center; 
 }
@@ -28,6 +29,7 @@ h2 {
     border: #05FFA1 2px dotted;
     padding-top: 30px;
     padding-bottom: 30px;
+    flex-shrink: 1;
 
 }
 
@@ -69,7 +71,5 @@ button:hover {
     text-align: center;
     color: #05FFA1;
     font-size: small;
-    
-
-    
 }
+
