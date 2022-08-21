@@ -23,8 +23,8 @@ h2 {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    width: 960px;
-    height: 720px;
+    width: 400px;
+    height: 600px;
     border-radius: 15px;
     border: #05FFA1 2px dotted;
     padding-top: 30px;
